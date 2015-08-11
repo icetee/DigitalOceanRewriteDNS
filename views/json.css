@@ -1,0 +1,12 @@
+div.json::before {
+    content: '{';
+}
+div.json::after {
+    content: '}';
+}
+div.json span.key {
+    font-weight: bold;
+}
+div.json ul {
+    list-style: none;
+}

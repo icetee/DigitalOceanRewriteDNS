@@ -41,3 +41,12 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Logs
+log/
+vendor/
+.ftpconfig
+composer.phar
+composer.lock
+.htaccess
+.gitattributes
