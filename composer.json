@@ -18,6 +18,12 @@
         "joshcam/mysqli-database-class": "~2.1"
     },
     "autoload": {
-        "files": ["api.php"]
-    }
+        "files": ["RewriteDNS.php"]
+    },
+    "autoload": {
+        "psr-4": {
+            "digitalocean-rewrite-dns\\": "/"
+        },
+        "files": ["RewriteDNS.php"]
+    },
 }
