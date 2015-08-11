@@ -1,5 +1,5 @@
 {
-    "name": "icetee/DigitalOceanRewriteDNS",
+    "name": "icetee/digitalocean-rewrite-dns",
     "description": "Automatic DNS update, in case of interface changes",
     "authors": [{
             "name": "Tamás András Horváth",
