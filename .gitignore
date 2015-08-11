@@ -50,3 +50,4 @@ composer.phar
 composer.lock
 .htaccess
 .gitattributes
+robots.txt
