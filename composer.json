@@ -1,6 +1,7 @@
 {
     "name": "icetee/digitalocean-rewrite-dns",
     "description": "Automatic DNS update, in case of interface changes",
+    "license": "GPL-3.0",
     "authors": [{
             "name": "Tamás András Horváth",
             "email": "htomy92@gmail.com",
