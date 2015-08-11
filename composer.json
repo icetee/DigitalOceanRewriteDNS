@@ -19,5 +19,5 @@
     },
     "autoload": {
         "files": ["RewriteDNS.php"]
-    },
+    }
 }
