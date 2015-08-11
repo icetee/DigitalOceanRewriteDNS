@@ -1,10 +1,22 @@
 {
+    "name": "icetee/DigitalOceanRewriteDNS",
+    "description": "Automatic DNS update, in case of interface changes",
+    "authors": [{
+            "name": "Tamás András Horváth",
+            "email": "htomy92@gmail.com",
+            "homepage": "https://github.com/icetee",
+            "role": "Developer"
+    }],
     "require": {
+        "php": ">=5.3.0",
         "toin0u/digitalocean-v2": "~1.0",
         "kriswallsmith/buzz": "~0.10",
         "guzzle/guzzle": "~3.7",
         "guzzlehttp/guzzle": "~5.0",
         "slim/slim": "~2.0",
         "joshcam/mysqli-database-class": "dev-master"
+    },
+    "autoload": {
+        "files": ["api.php"]
     }
 }
